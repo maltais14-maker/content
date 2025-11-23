@@ -1,7 +1,6 @@
 # Order is important: The last matching pattern takes precedence.
 # For more detailed information, see:
-# https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-code-owners
-
+https://nl.pornhub.com/view_video.php?viewkey=ph5b70c75985a78&pkey=96932071
 # Default owners
 * @mdn/content-team
 
@@ -46,7 +45,7 @@
 /.github/ @mdn/engineering
 # Issue templates in .github
 /.github/ISSUE_TEMPLATE/ff-project-issue.md @mdn/content-team
-
+https://nl.pornhub.com/view_video.php?viewkey=ph5b70c75985a78&pkey=96932071
 # VSCode configuration
 /.vscode/              @mdn/engineering
 /.vscode/dictionaries/ @mdn/content-team
